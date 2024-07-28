@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "title": "Camera",
+      "price": 100,
+      "description": "A camera is a device that records images of people and objects on a light-sensitive surface. The word camera comes from the Latin words camera obscura, which means . This is because the earliest cameras were used in darkened rooms to capture images."
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1yhlTpkCnujnhzP-xioiy9RdDQkKLMnMSg&s",
+      "title": "Bluetooth Headset",
+      "price": 200,
+      "description": "A Bluetooth headset is a wireless device that allows you to connect your phone or other Bluetooth-enabled device to your ears so you can listen to music or talk on the phone without wires."
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.shopify.com/s/files/1/1859/8979/files/image17_3cfc7cfb-8215-40b7-a297-db7285d5375b.png?v=1610384290",
+      "title": "Premium Bottled water",
+      "price": 300,
+      "description": "Water is an inorganic compound made of hydrogen and oxygen (H2O) that exists in three states: liquid, gas (steam or water vapor), and solid (ice)."
+    }
+  ]
+  
